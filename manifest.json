@@ -1,0 +1,16 @@
+{
+  "name": "Encryption Studio",
+  "short_name": "Cipher",
+  "start_url": "crypting.html",
+  "display": "standalone",
+  "background_color": "#020604",
+  "theme_color": "#020604",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%23020604'/><rect x='48' y='80' width='96' height='80' rx='16' fill='%2307120b' stroke='%2339ff14' stroke-width='8'/><path d='M68 80V54a28 28 0 0 1 56 0v26' fill='none' stroke='%2339ff14' stroke-width='8' stroke-linecap='round'/><circle cx='96' cy='115' r='8' fill='%2339ff14'/><path d='M96 123v14' stroke='%2339ff14' stroke-width='6' stroke-linecap='round'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
